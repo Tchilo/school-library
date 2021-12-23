@@ -8,6 +8,14 @@
 - Add new books.
 - Save records of who borrowed a book and when.
 
+## Screenshots
+
+> |Screenshot 1|Screenshots 2|
+> |--------------|----------------|
+> |![](app1.png)|![](app2.png)|!
+> |Screenshot 3|Screenshots 4|
+> |--------------|----------------|
+> |![](app3.png)|![](app4.png)|!
 
 
 Additional description about the project and its features.
