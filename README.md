@@ -31,13 +31,13 @@ Ruby
 
 ### Setup
 ```
-git clone git@github.com:Tchilo/morse-code.git
-cd morse-code.git
+git clone git@github.com:Tchilo/school-library.git
+cd school-library.git
 ```
 
 ### Run Program
 ```
-ruby decode_morse_code.rb
+ruby school-library.rb
 ```
 
 

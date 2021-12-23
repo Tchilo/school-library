@@ -10,12 +10,12 @@ class Person
   attr_reader :id
 
   def can_use_services?
-    @age > 18 || @parent_permission == true
+    of_age? || @parent_permission
   end
 
   private
 
   def of_age?
-    @age > 18
+    @age >= 18
   end
 end
