@@ -1,59 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# School library
 
-> One paragraph statement about the project.
+> This app is a tool one can use in a library to record what books are in the library and who borrows them. This app will allow a user to:
 
-![screenshot](./app_screenshot.png)
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a book and when.
+
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+```
+Ruby
+```
 
 ### Setup
+```
+git clone git@github.com:Tchilo/school-library.git
+cd school-library.git
+```
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+### Run Program
+```
+ruby school-library.rb
+```
 
 
+## Author
 
-## Authors
+👤 **Taro Chilongoshi**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/Tchilo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/TaroChilongoshi)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
