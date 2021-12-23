@@ -129,7 +129,7 @@ end
 
 class App
   def self.home_page
-    puts 'Welcome to the OOP School Library App!'
+    puts 'Welcome to the School Library App!'
     puts "\n"
     puts 'Please choose an option by entering a number: '
 
