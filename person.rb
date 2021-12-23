@@ -16,7 +16,7 @@ class Person
   def add_rental(book, date)
     Rental.new(date, self, book)
   end
-  
+
   def can_use_services?
     of_age? || @parent_permission
   end
